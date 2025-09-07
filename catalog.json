@@ -4,7 +4,6 @@
             "id": 1,
             "name": "DUALL EXTRA SALT",
             "taste": "Виноград клубника 🍇🍓",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/1.jpg"
@@ -12,8 +11,7 @@
         {
             "id": 2,
             "name": "DUALL EXTRA SALT",
-            "taste": "Манго, апельсин, мята 🥭🍊",
-            "description": "Description 1",
+            "taste": " Манго, апельсин, мята 🥭🍊",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/2.jpg"
@@ -22,7 +20,6 @@
             "id": 3,
             "name": "DUALL EXTRA SALT",
             "taste": "Манго, малина 🥭",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/3.jpg"
@@ -30,8 +27,7 @@
         {
             "id": 4,
             "name": "DUALL EXTRA SALT",
-            "taste": "Кислые дикие ягоды🍇🍒🍓",
-            "description": "Description 1",
+            "taste": " Кислые дикие ягоды🍇🍒🍓",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/4.jpg"
@@ -40,7 +36,6 @@
             "id": 5,
             "name": "LIT ENERGY Salt",
             "taste": "Кислый энергетик⚡️",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 400,
             "image": "https://dommi889.github.io/AetherArsenal/images/5.jpg"
@@ -49,7 +44,6 @@
             "id": 6,
             "name": "Podonki Critical Salt",
             "taste": "Кислые лесные ягоды",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/6.jpg"
@@ -58,7 +52,6 @@
             "id": 7,
             "name": "Rick And Morty Bad Trip Salt",
             "taste": "Северные ягоды",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/7.jpg"
@@ -67,7 +60,6 @@
             "id": 8,
             "name": "Rick And Morty Bad Trip Salt",
             "taste": "Скитлс Лимон-Лайм 🍋🍋‍🟩🍬",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/8.jpg"
@@ -76,7 +68,6 @@
             "id": 9,
             "name": "Rick And Morty Bad Trip Salt",
             "taste": "Арбуз, Малина🍉 ",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/9.jpg"
@@ -85,7 +76,6 @@
             "id": 10,
             "name": "SKALA Salt",
             "taste": "Малина со льдом",
-            "description": "Description 1",
             "in_stock": "1",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/10.jpg"
@@ -93,8 +83,7 @@
         {
             "id": 11,
             "name": "SKALA Salt",
-            "taste": "Ананас со льдом",
-            "description": "Description 1",
+            "taste": " Ананас со льдом",
             "in_stock": "1",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/11.jpg"
@@ -102,8 +91,7 @@
         {
             "id": 12,
             "name": "SKALA Salt",
-            "taste": "Кола со льдом🥤🧊",
-            "description": "Description 1",
+            "taste": " Кола со льдом🥤🧊",
             "in_stock": "1",
             "price": 450,
             "image": "https://dommi889.github.io/AetherArsenal/images/12.jpg"
@@ -111,8 +99,7 @@
         {
             "id": 13,
             "name": "Waka Salt",
-            "taste": "Манго, Ананас 🥭🍍",
-            "description": "Description 1",
+            "taste": " Манго, Ананас 🥭🍍",
             "in_stock": "2",
             "price": 550,
             "image": "https://dommi889.github.io/AetherArsenal/images/13.jpg"
@@ -121,7 +108,6 @@
             "id": 14,
             "name": "Waka Salt",
             "taste": "Кислые дикие ягоды",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 550,
             "image": "https://dommi889.github.io/AetherArsenal/images/14.jpg"
@@ -130,7 +116,6 @@
             "id": 15,
             "name": "Waka Salt",
             "taste": "Сладкая вишня🍒",
-            "description": "Description 1",
             "in_stock": "2",
             "price": 550,
             "image": "https://dommi889.github.io/AetherArsenal/images/15.jpg"
@@ -139,7 +124,6 @@
             "id": 16,
             "name": "Злая Монашка Sour Salt",
             "taste": "Кислая алыча с брусникой",
-            "description": "Description 1",
             "in_stock": "1",
             "price": 500,
             "image": "https://dommi889.github.io/AetherArsenal/images/16.jpg"
@@ -148,7 +132,6 @@
             "id": 17,
             "name": "Злая Монашка Sour Salt",
             "taste": "Лимонная кислота с клюквой",
-            "description": "Description 1",
             "in_stock": "1",
             "price": 500,
             "image": "https://dommi889.github.io/AetherArsenal/images/17.jpg"
